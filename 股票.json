@@ -1,0 +1,3007 @@
+var vardata:[
+    {
+        "TRADEDATE": "2019-05-30",
+        "BUYNET": -1127744555,
+        "CLOSE": 2905.81
+    },
+    {
+        "TRADEDATE": "2019-05-31",
+        "BUYNET": -2233656454,
+        "CLOSE": 2898.7
+    },
+    {
+        "TRADEDATE": "2019-06-03",
+        "BUYNET": -1344842501,
+        "CLOSE": 2890.08
+    },
+    {
+        "TRADEDATE": "2019-06-04",
+        "BUYNET": -2250278351,
+        "CLOSE": 2862.28
+    },
+    {
+        "TRADEDATE": "2019-06-05",
+        "BUYNET": -1680241562,
+        "CLOSE": 2861.42
+    },
+    {
+        "TRADEDATE": "2019-06-06",
+        "BUYNET": -3503736048,
+        "CLOSE": 2827.8
+    },
+    {
+        "TRADEDATE": "2019-06-10",
+        "BUYNET": -854068088,
+        "CLOSE": 2852.13
+    },
+    {
+        "TRADEDATE": "2019-06-11",
+        "BUYNET": 268692561,
+        "CLOSE": 2925.72
+    },
+    {
+        "TRADEDATE": "2019-06-12",
+        "BUYNET": 1016608384,
+        "CLOSE": 2909.38
+    },
+    {
+        "TRADEDATE": "2019-06-13",
+        "BUYNET": 413412753,
+        "CLOSE": 2910.74
+    },
+    {
+        "TRADEDATE": "2019-06-14",
+        "BUYNET": -2140263688,
+        "CLOSE": 2881.97
+    },
+    {
+        "TRADEDATE": "2019-06-17",
+        "BUYNET": -459789992,
+        "CLOSE": 2887.62
+    },
+    {
+        "TRADEDATE": "2019-06-18",
+        "BUYNET": -1216079968,
+        "CLOSE": 2890.16
+    },
+    {
+        "TRADEDATE": "2019-06-19",
+        "BUYNET": -495767281,
+        "CLOSE": 2917.8
+    },
+    {
+        "TRADEDATE": "2019-06-20",
+        "BUYNET": 2280521102,
+        "CLOSE": 2987.12
+    },
+    {
+        "TRADEDATE": "2019-06-21",
+        "BUYNET": -665521763,
+        "CLOSE": 3001.98
+    },
+    {
+        "TRADEDATE": "2019-06-24",
+        "BUYNET": 2113637730,
+        "CLOSE": 3008.15
+    },
+    {
+        "TRADEDATE": "2019-06-25",
+        "BUYNET": 1344325021,
+        "CLOSE": 2982.07
+    },
+    {
+        "TRADEDATE": "2019-06-26",
+        "BUYNET": -495840586,
+        "CLOSE": 2976.28
+    },
+    {
+        "TRADEDATE": "2019-06-27",
+        "BUYNET": -182004213,
+        "CLOSE": 2996.79
+    },
+    {
+        "TRADEDATE": "2019-06-28",
+        "BUYNET": -2214074499,
+        "CLOSE": 2978.88
+    },
+    {
+        "TRADEDATE": "2019-07-01",
+        "BUYNET": 2711524713,
+        "CLOSE": 3044.9
+    },
+    {
+        "TRADEDATE": "2019-07-02",
+        "BUYNET": 1214414266,
+        "CLOSE": 3043.94
+    },
+    {
+        "TRADEDATE": "2019-07-03",
+        "BUYNET": 1159374278,
+        "CLOSE": 3015.26
+    },
+    {
+        "TRADEDATE": "2019-07-04",
+        "BUYNET": 118586998,
+        "CLOSE": 3005.25
+    },
+    {
+        "TRADEDATE": "2019-07-05",
+        "BUYNET": -849303686,
+        "CLOSE": 3011.06
+    },
+    {
+        "TRADEDATE": "2019-07-08",
+        "BUYNET": -477916426,
+        "CLOSE": 2933.36
+    },
+    {
+        "TRADEDATE": "2019-07-09",
+        "BUYNET": -537908107,
+        "CLOSE": 2928.23
+    },
+    {
+        "TRADEDATE": "2019-07-10",
+        "BUYNET": -229172865,
+        "CLOSE": 2915.3
+    },
+    {
+        "TRADEDATE": "2019-07-11",
+        "BUYNET": -1766469549,
+        "CLOSE": 2917.76
+    },
+    {
+        "TRADEDATE": "2019-07-12",
+        "BUYNET": -1443089288,
+        "CLOSE": 2930.55
+    },
+    {
+        "TRADEDATE": "2019-07-15",
+        "BUYNET": 1536663143,
+        "CLOSE": 2942.19
+    },
+    {
+        "TRADEDATE": "2019-07-16",
+        "BUYNET": -410375501,
+        "CLOSE": 2937.62
+    },
+    {
+        "TRADEDATE": "2019-07-17",
+        "BUYNET": 351587388,
+        "CLOSE": 2931.69
+    },
+    {
+        "TRADEDATE": "2019-07-18",
+        "BUYNET": -879700716,
+        "CLOSE": 2901.18
+    },
+    {
+        "TRADEDATE": "2019-07-19",
+        "BUYNET": -1774047560,
+        "CLOSE": 2924.2
+    },
+    {
+        "TRADEDATE": "2019-07-22",
+        "BUYNET": -1799657142,
+        "CLOSE": 2886.97
+    },
+    {
+        "TRADEDATE": "2019-07-23",
+        "BUYNET": -1431737123,
+        "CLOSE": 2899.94
+    },
+    {
+        "TRADEDATE": "2019-07-24",
+        "BUYNET": -46931169,
+        "CLOSE": 2923.28
+    },
+    {
+        "TRADEDATE": "2019-07-25",
+        "BUYNET": -221376994,
+        "CLOSE": 2937.36
+    },
+    {
+        "TRADEDATE": "2019-07-26",
+        "BUYNET": -865098557,
+        "CLOSE": 2944.54
+    },
+    {
+        "TRADEDATE": "2019-07-29",
+        "BUYNET": 1350830338,
+        "CLOSE": 2941.01
+    },
+    {
+        "TRADEDATE": "2019-07-30",
+        "BUYNET": 88995724,
+        "CLOSE": 2952.34
+    },
+    {
+        "TRADEDATE": "2019-07-31",
+        "BUYNET": -446025341,
+        "CLOSE": 2932.51
+    },
+    {
+        "TRADEDATE": "2019-08-01",
+        "BUYNET": -64013930,
+        "CLOSE": 2908.77
+    },
+    {
+        "TRADEDATE": "2019-08-02",
+        "BUYNET": -1755034639,
+        "CLOSE": 2867.84
+    },
+    {
+        "TRADEDATE": "2019-08-05",
+        "BUYNET": 161663010,
+        "CLOSE": 2821.5
+    },
+    {
+        "TRADEDATE": "2019-08-06",
+        "BUYNET": -2639632040,
+        "CLOSE": 2777.56
+    },
+    {
+        "TRADEDATE": "2019-08-07",
+        "BUYNET": -2113627947,
+        "CLOSE": 2768.68
+    },
+    {
+        "TRADEDATE": "2019-08-08",
+        "BUYNET": -853825209,
+        "CLOSE": 2794.55
+    },
+    {
+        "TRADEDATE": "2019-08-09",
+        "BUYNET": -2240837269,
+        "CLOSE": 2774.75
+    },
+    {
+        "TRADEDATE": "2019-08-12",
+        "BUYNET": 326677757,
+        "CLOSE": 2814.99
+    },
+    {
+        "TRADEDATE": "2019-08-13",
+        "BUYNET": 287754528,
+        "CLOSE": 2797.26
+    },
+    {
+        "TRADEDATE": "2019-08-14",
+        "BUYNET": 267198278,
+        "CLOSE": 2808.91
+    },
+    {
+        "TRADEDATE": "2019-08-15",
+        "BUYNET": -806386402,
+        "CLOSE": 2815.8
+    },
+    {
+        "TRADEDATE": "2019-08-16",
+        "BUYNET": -349374475,
+        "CLOSE": 2823.82
+    },
+    {
+        "TRADEDATE": "2019-08-19",
+        "BUYNET": 3860758504,
+        "CLOSE": 2883.1
+    },
+    {
+        "TRADEDATE": "2019-08-20",
+        "BUYNET": 270162791,
+        "CLOSE": 2880
+    },
+    {
+        "TRADEDATE": "2019-08-21",
+        "BUYNET": 584291441,
+        "CLOSE": 2880.33
+    },
+    {
+        "TRADEDATE": "2019-08-22",
+        "BUYNET": 496572064,
+        "CLOSE": 2883.44
+    },
+    {
+        "TRADEDATE": "2019-08-23",
+        "BUYNET": -1195804939,
+        "CLOSE": 2897.43
+    },
+    {
+        "TRADEDATE": "2019-08-26",
+        "BUYNET": 1590789964,
+        "CLOSE": 2863.57
+    },
+    {
+        "TRADEDATE": "2019-08-27",
+        "BUYNET": -260102033,
+        "CLOSE": 2902.19
+    },
+    {
+        "TRADEDATE": "2019-08-28",
+        "BUYNET": 818737090,
+        "CLOSE": 2893.76
+    },
+    {
+        "TRADEDATE": "2019-08-29",
+        "BUYNET": 1684222451,
+        "CLOSE": 2890.92
+    },
+    {
+        "TRADEDATE": "2019-08-30",
+        "BUYNET": -246214582,
+        "CLOSE": 2886.24
+    },
+    {
+        "TRADEDATE": "2019-09-02",
+        "BUYNET": 1718315471,
+        "CLOSE": 2924.11
+    },
+    {
+        "TRADEDATE": "2019-09-03",
+        "BUYNET": 61893127,
+        "CLOSE": 2930.15
+    },
+    {
+        "TRADEDATE": "2019-09-04",
+        "BUYNET": 657015342,
+        "CLOSE": 2957.41
+    },
+    {
+        "TRADEDATE": "2019-09-05",
+        "BUYNET": 1080672120,
+        "CLOSE": 2985.86
+    },
+    {
+        "TRADEDATE": "2019-09-06",
+        "BUYNET": -743912531,
+        "CLOSE": 2999.6
+    },
+    {
+        "TRADEDATE": "2019-09-09",
+        "BUYNET": 4515943260,
+        "CLOSE": 3024.74
+    },
+    {
+        "TRADEDATE": "2019-09-10",
+        "BUYNET": 1434567227,
+        "CLOSE": 3021.2
+    },
+    {
+        "TRADEDATE": "2019-09-11",
+        "BUYNET": 865409164,
+        "CLOSE": 3008.81
+    },
+    {
+        "TRADEDATE": "2019-09-12",
+        "BUYNET": -2156747833,
+        "CLOSE": 3031.24
+    },
+    {
+        "TRADEDATE": "2019-09-16",
+        "BUYNET": 3054728658,
+        "CLOSE": 3030.75
+    },
+    {
+        "TRADEDATE": "2019-09-17",
+        "BUYNET": 993193299,
+        "CLOSE": 2978.12
+    },
+    {
+        "TRADEDATE": "2019-09-18",
+        "BUYNET": 233593010,
+        "CLOSE": 2985.66
+    },
+    {
+        "TRADEDATE": "2019-09-19",
+        "BUYNET": 1117913401,
+        "CLOSE": 2999.28
+    },
+    {
+        "TRADEDATE": "2019-09-20",
+        "BUYNET": -1325664405,
+        "CLOSE": 3006.45
+    },
+    {
+        "TRADEDATE": "2019-09-23",
+        "BUYNET": 777972401,
+        "CLOSE": 2977.08
+    },
+    {
+        "TRADEDATE": "2019-09-24",
+        "BUYNET": -654858539,
+        "CLOSE": 2985.34
+    },
+    {
+        "TRADEDATE": "2019-09-25",
+        "BUYNET": -1909136941,
+        "CLOSE": 2955.43
+    },
+    {
+        "TRADEDATE": "2019-09-26",
+        "BUYNET": -2384384623,
+        "CLOSE": 2929.09
+    },
+    {
+        "TRADEDATE": "2019-09-27",
+        "BUYNET": -2330710592,
+        "CLOSE": 2932.17
+    },
+    {
+        "TRADEDATE": "2019-09-30",
+        "BUYNET": -4756328294,
+        "CLOSE": 2905.19
+    },
+    {
+        "TRADEDATE": "2019-10-08",
+        "BUYNET": 2382517597,
+        "CLOSE": 2913.57
+    },
+    {
+        "TRADEDATE": "2019-10-09",
+        "BUYNET": 817377231,
+        "CLOSE": 2924.86
+    },
+    {
+        "TRADEDATE": "2019-10-10",
+        "BUYNET": 420445392,
+        "CLOSE": 2947.71
+    },
+    {
+        "TRADEDATE": "2019-10-11",
+        "BUYNET": -1357988978,
+        "CLOSE": 2973.66
+    },
+    {
+        "TRADEDATE": "2019-10-14",
+        "BUYNET": 3112100659,
+        "CLOSE": 3007.88
+    },
+    {
+        "TRADEDATE": "2019-10-15",
+        "BUYNET": -509902447,
+        "CLOSE": 2991.05
+    },
+    {
+        "TRADEDATE": "2019-10-16",
+        "BUYNET": 113025915,
+        "CLOSE": 2978.71
+    },
+    {
+        "TRADEDATE": "2019-10-17",
+        "BUYNET": -723435570,
+        "CLOSE": 2977.33
+    },
+    {
+        "TRADEDATE": "2019-10-18",
+        "BUYNET": -1669208793,
+        "CLOSE": 2938.14
+    },
+    {
+        "TRADEDATE": "2019-10-21",
+        "BUYNET": 321926241,
+        "CLOSE": 2939.62
+    },
+    {
+        "TRADEDATE": "2019-10-22",
+        "BUYNET": 735131228,
+        "CLOSE": 2954.38
+    },
+    {
+        "TRADEDATE": "2019-10-23",
+        "BUYNET": 135702865,
+        "CLOSE": 2941.62
+    },
+    {
+        "TRADEDATE": "2019-10-24",
+        "BUYNET": 995966932,
+        "CLOSE": 2940.92
+    },
+    {
+        "TRADEDATE": "2019-10-25",
+        "BUYNET": -182138151,
+        "CLOSE": 2954.93
+    },
+    {
+        "TRADEDATE": "2019-10-28",
+        "BUYNET": 2001077483,
+        "CLOSE": 2980.05
+    },
+    {
+        "TRADEDATE": "2019-10-29",
+        "BUYNET": -565988047,
+        "CLOSE": 2954.18
+    },
+    {
+        "TRADEDATE": "2019-10-30",
+        "BUYNET": -337101496,
+        "CLOSE": 2939.32
+    },
+    {
+        "TRADEDATE": "2019-10-31",
+        "BUYNET": -1409461807,
+        "CLOSE": 2929.06
+    },
+    {
+        "TRADEDATE": "2019-11-01",
+        "BUYNET": -364319663,
+        "CLOSE": 2958.2
+    },
+    {
+        "TRADEDATE": "2019-11-04",
+        "BUYNET": 344315345,
+        "CLOSE": 2975.49
+    },
+    {
+        "TRADEDATE": "2019-11-05",
+        "BUYNET": 1008734261,
+        "CLOSE": 2991.56
+    },
+    {
+        "TRADEDATE": "2019-11-06",
+        "BUYNET": -29502974,
+        "CLOSE": 2978.6
+    },
+    {
+        "TRADEDATE": "2019-11-07",
+        "BUYNET": 188568088,
+        "CLOSE": 2978.71
+    },
+    {
+        "TRADEDATE": "2019-11-08",
+        "BUYNET": -932814752,
+        "CLOSE": 2964.18
+    },
+    {
+        "TRADEDATE": "2019-11-11",
+        "BUYNET": -1499838861,
+        "CLOSE": 2909.97
+    },
+    {
+        "TRADEDATE": "2019-11-12",
+        "BUYNET": -395277714,
+        "CLOSE": 2914.82
+    },
+    {
+        "TRADEDATE": "2019-11-13",
+        "BUYNET": 687860342,
+        "CLOSE": 2905.24
+    },
+    {
+        "TRADEDATE": "2019-11-14",
+        "BUYNET": 677622808,
+        "CLOSE": 2909.87
+    },
+    {
+        "TRADEDATE": "2019-11-15",
+        "BUYNET": -1612728786,
+        "CLOSE": 2891.34
+    },
+    {
+        "TRADEDATE": "2019-11-18",
+        "BUYNET": 420408812,
+        "CLOSE": 2909.2
+    },
+    {
+        "TRADEDATE": "2019-11-19",
+        "BUYNET": 1188054303,
+        "CLOSE": 2933.99
+    },
+    {
+        "TRADEDATE": "2019-11-20",
+        "BUYNET": 318444831,
+        "CLOSE": 2911.05
+    },
+    {
+        "TRADEDATE": "2019-11-21",
+        "BUYNET": 984495011,
+        "CLOSE": 2903.64
+    },
+    {
+        "TRADEDATE": "2019-11-22",
+        "BUYNET": -1465619178,
+        "CLOSE": 2885.29
+    },
+    {
+        "TRADEDATE": "2019-11-25",
+        "BUYNET": 436139661,
+        "CLOSE": 2906.17
+    },
+    {
+        "TRADEDATE": "2019-11-26",
+        "BUYNET": -1946212972,
+        "CLOSE": 2907.06
+    },
+    {
+        "TRADEDATE": "2019-11-27",
+        "BUYNET": 491503819,
+        "CLOSE": 2903.19
+    },
+    {
+        "TRADEDATE": "2019-11-28",
+        "BUYNET": -982298133,
+        "CLOSE": 2889.69
+    },
+    {
+        "TRADEDATE": "2019-11-29",
+        "BUYNET": 32084507,
+        "CLOSE": 2871.98
+    },
+    {
+        "TRADEDATE": "2019-12-02",
+        "BUYNET": 203669987,
+        "CLOSE": 2875.81
+    },
+    {
+        "TRADEDATE": "2019-12-03",
+        "BUYNET": 1026961161,
+        "CLOSE": 2884.7
+    },
+    {
+        "TRADEDATE": "2019-12-04",
+        "BUYNET": 653732077,
+        "CLOSE": 2878.12
+    },
+    {
+        "TRADEDATE": "2019-12-05",
+        "BUYNET": 473943483,
+        "CLOSE": 2899.47
+    },
+    {
+        "TRADEDATE": "2019-12-06",
+        "BUYNET": -47997471,
+        "CLOSE": 2912.01
+    },
+    {
+        "TRADEDATE": "2019-12-09",
+        "BUYNET": 960048907,
+        "CLOSE": 2914.48
+    },
+    {
+        "TRADEDATE": "2019-12-10",
+        "BUYNET": 456215560,
+        "CLOSE": 2917.32
+    },
+    {
+        "TRADEDATE": "2019-12-11",
+        "BUYNET": 502349789,
+        "CLOSE": 2924.42
+    },
+    {
+        "TRADEDATE": "2019-12-12",
+        "BUYNET": -64595595,
+        "CLOSE": 2915.7
+    },
+    {
+        "TRADEDATE": "2019-12-13",
+        "BUYNET": -331192667,
+        "CLOSE": 2967.68
+    },
+    {
+        "TRADEDATE": "2019-12-16",
+        "BUYNET": 3856890242,
+        "CLOSE": 2984.39
+    },
+    {
+        "TRADEDATE": "2019-12-17",
+        "BUYNET": 3228556898,
+        "CLOSE": 3022.42
+    },
+    {
+        "TRADEDATE": "2019-12-18",
+        "BUYNET": 2949577617,
+        "CLOSE": 3017.04
+    },
+    {
+        "TRADEDATE": "2019-12-19",
+        "BUYNET": 1843178817,
+        "CLOSE": 3017.07
+    },
+    {
+        "TRADEDATE": "2019-12-20",
+        "BUYNET": -1273920690,
+        "CLOSE": 3004.94
+    },
+    {
+        "TRADEDATE": "2019-12-23",
+        "BUYNET": 968375121,
+        "CLOSE": 2962.75
+    },
+    {
+        "TRADEDATE": "2019-12-24",
+        "BUYNET": -1602870164,
+        "CLOSE": 2982.68
+    },
+    {
+        "TRADEDATE": "2019-12-25",
+        "BUYNET": 614216430,
+        "CLOSE": 2981.88
+    },
+    {
+        "TRADEDATE": "2019-12-26",
+        "BUYNET": 980226737,
+        "CLOSE": 3007.35
+    },
+    {
+        "TRADEDATE": "2019-12-27",
+        "BUYNET": -883864493,
+        "CLOSE": 3005.04
+    },
+    {
+        "TRADEDATE": "2019-12-30",
+        "BUYNET": 4037374102,
+        "CLOSE": 3040.02
+    },
+    {
+        "TRADEDATE": "2020-01-08",
+        "BUYNET": 1947396895,
+        "CLOSE": 3066.89
+    },
+    {
+        "TRADEDATE": "2020-01-09",
+        "BUYNET": 1078354304,
+        "CLOSE": 3094.88
+    },
+    {
+        "TRADEDATE": "2020-01-10",
+        "BUYNET": -1079078359,
+        "CLOSE": 3092.29
+    },
+    {
+        "TRADEDATE": "2020-01-13",
+        "BUYNET": 2281500233,
+        "CLOSE": 3115.57
+    },
+    {
+        "TRADEDATE": "2020-01-14",
+        "BUYNET": 1917056120,
+        "CLOSE": 3106.82
+    },
+    {
+        "TRADEDATE": "2020-01-15",
+        "BUYNET": 983925020,
+        "CLOSE": 3090.04
+    },
+    {
+        "TRADEDATE": "2020-01-16",
+        "BUYNET": 629221513,
+        "CLOSE": 3074.08
+    },
+    {
+        "TRADEDATE": "2020-01-17",
+        "BUYNET": -1066541334,
+        "CLOSE": 3075.5
+    },
+    {
+        "TRADEDATE": "2020-01-20",
+        "BUYNET": 811209759,
+        "CLOSE": 3095.79
+    },
+    {
+        "TRADEDATE": "2020-01-21",
+        "BUYNET": -1916826,
+        "CLOSE": 3052.14
+    },
+    {
+        "TRADEDATE": "2020-01-22",
+        "BUYNET": 29755806,
+        "CLOSE": 3060.75
+    },
+    {
+        "TRADEDATE": "2020-01-23",
+        "BUYNET": -7957063429,
+        "CLOSE": 2976.53
+    },
+    {
+        "TRADEDATE": "2020-02-03",
+        "BUYNET": -6398342820,
+        "CLOSE": 2746.61
+    },
+    {
+        "TRADEDATE": "2020-02-04",
+        "BUYNET": -2022617997,
+        "CLOSE": 2783.29
+    },
+    {
+        "TRADEDATE": "2020-02-05",
+        "BUYNET": -720539857,
+        "CLOSE": 2818.09
+    },
+    {
+        "TRADEDATE": "2020-02-06",
+        "BUYNET": 2837460592,
+        "CLOSE": 2866.51
+    },
+    {
+        "TRADEDATE": "2020-02-07",
+        "BUYNET": -101841018,
+        "CLOSE": 2875.96
+    },
+    {
+        "TRADEDATE": "2020-02-10",
+        "BUYNET": 1974739372,
+        "CLOSE": 2890.49
+    },
+    {
+        "TRADEDATE": "2020-02-11",
+        "BUYNET": -1435298736,
+        "CLOSE": 2901.67
+    },
+    {
+        "TRADEDATE": "2020-02-12",
+        "BUYNET": 2245027915,
+        "CLOSE": 2926.9
+    },
+    {
+        "TRADEDATE": "2020-02-13",
+        "BUYNET": 563959032,
+        "CLOSE": 2906.07
+    },
+    {
+        "TRADEDATE": "2020-02-14",
+        "BUYNET": -426711548,
+        "CLOSE": 2917.01
+    },
+    {
+        "TRADEDATE": "2020-02-17",
+        "BUYNET": 4084975764,
+        "CLOSE": 2983.62
+    },
+    {
+        "TRADEDATE": "2020-02-18",
+        "BUYNET": 4674477798,
+        "CLOSE": 2984.97
+    },
+    {
+        "TRADEDATE": "2020-02-19",
+        "BUYNET": 470347945,
+        "CLOSE": 2975.4
+    },
+    {
+        "TRADEDATE": "2020-02-20",
+        "BUYNET": 3698055784,
+        "CLOSE": 3030.15
+    },
+    {
+        "TRADEDATE": "2020-02-21",
+        "BUYNET": 2200242401,
+        "CLOSE": 3039.67
+    },
+    {
+        "TRADEDATE": "2020-02-24",
+        "BUYNET": 6445102403,
+        "CLOSE": 3031.23
+    },
+    {
+        "TRADEDATE": "2020-02-25",
+        "BUYNET": 3700072364,
+        "CLOSE": 3013.05
+    },
+    {
+        "TRADEDATE": "2020-02-26",
+        "BUYNET": 968583428,
+        "CLOSE": 2987.93
+    },
+    {
+        "TRADEDATE": "2020-02-27",
+        "BUYNET": -1203862857,
+        "CLOSE": 2991.33
+    },
+    {
+        "TRADEDATE": "2020-02-28",
+        "BUYNET": -7705216594,
+        "CLOSE": 2880.3
+    },
+    {
+        "TRADEDATE": "2020-03-02",
+        "BUYNET": 2683215775,
+        "CLOSE": 2970.93
+    },
+    {
+        "TRADEDATE": "2020-03-03",
+        "BUYNET": 2815733683,
+        "CLOSE": 2992.9
+    },
+    {
+        "TRADEDATE": "2020-03-04",
+        "BUYNET": 1514660818,
+        "CLOSE": 3011.67
+    },
+    {
+        "TRADEDATE": "2020-03-05",
+        "BUYNET": 5405607433,
+        "CLOSE": 3071.68
+    },
+    {
+        "TRADEDATE": "2020-03-06",
+        "BUYNET": -4168646290,
+        "CLOSE": 3034.51
+    },
+    {
+        "TRADEDATE": "2020-03-09",
+        "BUYNET": 720959567,
+        "CLOSE": 2943.29
+    },
+    {
+        "TRADEDATE": "2020-03-10",
+        "BUYNET": 213131173,
+        "CLOSE": 2996.76
+    },
+    {
+        "TRADEDATE": "2020-03-11",
+        "BUYNET": -637577532,
+        "CLOSE": 2968.52
+    },
+    {
+        "TRADEDATE": "2020-03-12",
+        "BUYNET": -1694231680,
+        "CLOSE": 2923.49
+    },
+    {
+        "TRADEDATE": "2020-03-13",
+        "BUYNET": -3196404081,
+        "CLOSE": 2887.43
+    },
+    {
+        "TRADEDATE": "2020-03-16",
+        "BUYNET": -6917844918,
+        "CLOSE": 2789.25
+    },
+    {
+        "TRADEDATE": "2020-03-17",
+        "BUYNET": 352015206,
+        "CLOSE": 2779.64
+    },
+    {
+        "TRADEDATE": "2020-03-18",
+        "BUYNET": -3846523933,
+        "CLOSE": 2728.76
+    },
+    {
+        "TRADEDATE": "2020-03-19",
+        "BUYNET": 1341286874,
+        "CLOSE": 2702.13
+    },
+    {
+        "TRADEDATE": "2020-03-20",
+        "BUYNET": -3339940490,
+        "CLOSE": 2745.62
+    },
+    {
+        "TRADEDATE": "2020-03-23",
+        "BUYNET": -3757960248,
+        "CLOSE": 2660.17
+    },
+    {
+        "TRADEDATE": "2020-03-24",
+        "BUYNET": -1164776112,
+        "CLOSE": 2722.44
+    },
+    {
+        "TRADEDATE": "2020-03-25",
+        "BUYNET": 610315330,
+        "CLOSE": 2781.59
+    },
+    {
+        "TRADEDATE": "2020-03-26",
+        "BUYNET": -1464101856,
+        "CLOSE": 2764.91
+    },
+    {
+        "TRADEDATE": "2020-03-27",
+        "BUYNET": -2297396821,
+        "CLOSE": 2772.2
+    },
+    {
+        "TRADEDATE": "2020-03-30",
+        "BUYNET": -1446237466,
+        "CLOSE": 2747.21
+    },
+    {
+        "TRADEDATE": "2020-03-31",
+        "BUYNET": -1318475154,
+        "CLOSE": 2750.3
+    },
+    {
+        "TRADEDATE": "2020-04-01",
+        "BUYNET": -3407137279,
+        "CLOSE": 2734.52
+    },
+    {
+        "TRADEDATE": "2020-04-02",
+        "BUYNET": -779480377,
+        "CLOSE": 2780.64
+    },
+    {
+        "TRADEDATE": "2020-04-03",
+        "BUYNET": -3883630777,
+        "CLOSE": 2763.99
+    },
+    {
+        "TRADEDATE": "2020-04-07",
+        "BUYNET": 1362507605,
+        "CLOSE": 2820.76
+    },
+    {
+        "TRADEDATE": "2020-04-08",
+        "BUYNET": -960625127,
+        "CLOSE": 2815.37
+    },
+    {
+        "TRADEDATE": "2020-04-09",
+        "BUYNET": 86768693,
+        "CLOSE": 2825.9
+    },
+    {
+        "TRADEDATE": "2020-04-10",
+        "BUYNET": -3008596176,
+        "CLOSE": 2796.63
+    },
+    {
+        "TRADEDATE": "2020-04-13",
+        "BUYNET": -658283531,
+        "CLOSE": 2783.05
+    },
+    {
+        "TRADEDATE": "2020-04-14",
+        "BUYNET": 88521569,
+        "CLOSE": 2827.28
+    },
+    {
+        "TRADEDATE": "2020-04-15",
+        "BUYNET": 50549171,
+        "CLOSE": 2811.17
+    },
+    {
+        "TRADEDATE": "2020-04-16",
+        "BUYNET": 1324841384,
+        "CLOSE": 2819.94
+    },
+    {
+        "TRADEDATE": "2020-04-17",
+        "BUYNET": -1576613677,
+        "CLOSE": 2838.49
+    },
+    {
+        "TRADEDATE": "2020-04-20",
+        "BUYNET": 944582767,
+        "CLOSE": 2852.55
+    },
+    {
+        "TRADEDATE": "2020-04-21",
+        "BUYNET": -30897596,
+        "CLOSE": 2827.01
+    },
+    {
+        "TRADEDATE": "2020-04-22",
+        "BUYNET": 949789637,
+        "CLOSE": 2843.98
+    },
+    {
+        "TRADEDATE": "2020-04-23",
+        "BUYNET": 20985883,
+        "CLOSE": 2838.5
+    },
+    {
+        "TRADEDATE": "2020-04-24",
+        "BUYNET": -2961681623,
+        "CLOSE": 2808.53
+    },
+    {
+        "TRADEDATE": "2020-04-27",
+        "BUYNET": -843335273,
+        "CLOSE": 2815.49
+    },
+    {
+        "TRADEDATE": "2020-04-28",
+        "BUYNET": -2470806515,
+        "CLOSE": 2810.02
+    },
+    {
+        "TRADEDATE": "2020-04-29",
+        "BUYNET": -3034585072,
+        "CLOSE": 2822.44
+    },
+    {
+        "TRADEDATE": "2020-04-30",
+        "BUYNET": -3597723663,
+        "CLOSE": 2860.08
+    },
+    {
+        "TRADEDATE": "2020-05-06",
+        "BUYNET": 6340650051,
+        "CLOSE": 2878.14
+    },
+    {
+        "TRADEDATE": "2020-05-07",
+        "BUYNET": 2555361165,
+        "CLOSE": 2871.52
+    },
+    {
+        "TRADEDATE": "2020-05-08",
+        "BUYNET": 1072095847,
+        "CLOSE": 2895.34
+    },
+    {
+        "TRADEDATE": "2020-05-11",
+        "BUYNET": 3082053839,
+        "CLOSE": 2894.8
+    },
+    {
+        "TRADEDATE": "2020-05-13",
+        "BUYNET": 408334951,
+        "CLOSE": 2898.05
+    },
+    {
+        "TRADEDATE": "2020-05-14",
+        "BUYNET": 840361851,
+        "CLOSE": 2870.34
+    },
+    {
+        "TRADEDATE": "2020-05-15",
+        "BUYNET": -602915369,
+        "CLOSE": 2868.46
+    },
+    {
+        "TRADEDATE": "2020-05-18",
+        "BUYNET": 1501641587,
+        "CLOSE": 2875.42
+    },
+    {
+        "TRADEDATE": "2020-05-19",
+        "BUYNET": 1948201035,
+        "CLOSE": 2898.58
+    },
+    {
+        "TRADEDATE": "2020-05-20",
+        "BUYNET": -445773028,
+        "CLOSE": 2883.74
+    },
+    {
+        "TRADEDATE": "2020-05-21",
+        "BUYNET": -459362258,
+        "CLOSE": 2867.92
+    },
+    {
+        "TRADEDATE": "2020-05-22",
+        "BUYNET": -1271841555,
+        "CLOSE": 2813.77
+    },
+    {
+        "TRADEDATE": "2020-05-25",
+        "BUYNET": 136988738,
+        "CLOSE": 2817.97
+    },
+    {
+        "TRADEDATE": "2020-05-26",
+        "BUYNET": 1022917915,
+        "CLOSE": 2846.55
+    },
+    {
+        "TRADEDATE": "2020-05-27",
+        "BUYNET": 52395088,
+        "CLOSE": 2836.8
+    },
+    {
+        "TRADEDATE": "2020-05-28",
+        "BUYNET": -872565545,
+        "CLOSE": 2846.22
+    },
+    {
+        "TRADEDATE": "2020-06-01",
+        "BUYNET": 4559593431,
+        "CLOSE": 2915.43
+    },
+    {
+        "TRADEDATE": "2020-06-02",
+        "BUYNET": 471517122,
+        "CLOSE": 2921.4
+    },
+    {
+        "TRADEDATE": "2020-06-03",
+        "BUYNET": 304729932,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-06-04",
+        "BUYNET": 1800829112,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-06-05",
+        "BUYNET": 539046425,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-06-08",
+        "BUYNET": 1929432699,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-06-09",
+        "BUYNET": 701705073,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-06-10",
+        "BUYNET": 814357779,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-06-11",
+        "BUYNET": 1557859173,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-06-12",
+        "BUYNET": 87506897,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-06-15",
+        "BUYNET": 1433586043,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-06-16",
+        "BUYNET": 2490219290,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-06-17",
+        "BUYNET": 920530521,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-06-18",
+        "BUYNET": 2016335875,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-06-19",
+        "BUYNET": -90034355,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-06-22",
+        "BUYNET": 5355447205,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-06-23",
+        "BUYNET": 2365135007,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-06-24",
+        "BUYNET": -3375642094,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-06-29",
+        "BUYNET": 4163223992,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-06-30",
+        "BUYNET": 5179439327,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-07-01",
+        "BUYNET": 4968967864,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-07-02",
+        "BUYNET": 5890519366,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-07-03",
+        "BUYNET": 6797712292,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-07-06",
+        "BUYNET": 21350554073,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-07-07",
+        "BUYNET": 12933797768,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-07-08",
+        "BUYNET": 17308880287,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-07-09",
+        "BUYNET": 12059142097,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-07-10",
+        "BUYNET": 8920179628,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-07-13",
+        "BUYNET": 15241819934,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-07-14",
+        "BUYNET": 6334813179,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-07-15",
+        "BUYNET": 2783987456,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-07-16",
+        "BUYNET": -1533017940,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-07-17",
+        "BUYNET": -4720148565,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-07-20",
+        "BUYNET": 4212195885,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-07-21",
+        "BUYNET": 360699089,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-07-22",
+        "BUYNET": 2608356972,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-07-23",
+        "BUYNET": 4037824931,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-07-24",
+        "BUYNET": -7348471277,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-07-27",
+        "BUYNET": 2544426998,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-07-28",
+        "BUYNET": 598538530,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-07-29",
+        "BUYNET": 5733455904,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-07-31",
+        "BUYNET": 2530997178,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-08-03",
+        "BUYNET": 10016172224,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-08-04",
+        "BUYNET": 545527167,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-08-05",
+        "BUYNET": 6991626551,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-08-06",
+        "BUYNET": 1918377300,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-08-07",
+        "BUYNET": -5110932065,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-08-10",
+        "BUYNET": 3086026697,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-08-11",
+        "BUYNET": -2952715266,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-08-12",
+        "BUYNET": -3087435508,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-08-13",
+        "BUYNET": -38983577,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-08-14",
+        "BUYNET": -3464947592,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-08-17",
+        "BUYNET": 9011907952,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-08-18",
+        "BUYNET": 5035208581,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-08-19",
+        "BUYNET": 962989803,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-08-20",
+        "BUYNET": -1257534728,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-08-21",
+        "BUYNET": -1613310839,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-08-24",
+        "BUYNET": 1010595098,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-08-25",
+        "BUYNET": -1620813361,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-08-26",
+        "BUYNET": -3084782511,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-08-27",
+        "BUYNET": 62258097,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-08-28",
+        "BUYNET": 1195419534,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-08-31",
+        "BUYNET": 4713163056,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-09-01",
+        "BUYNET": 979012731,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-09-02",
+        "BUYNET": 2820912671,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-09-03",
+        "BUYNET": -725399674,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-09-04",
+        "BUYNET": -1771949526,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-09-07",
+        "BUYNET": -1616167596,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-09-08",
+        "BUYNET": -1180560727,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-09-09",
+        "BUYNET": -2405932227,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-09-10",
+        "BUYNET": -4567834895,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-09-11",
+        "BUYNET": -1011465535,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-09-14",
+        "BUYNET": 949419196,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-09-15",
+        "BUYNET": 221424847,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-09-16",
+        "BUYNET": -677801463,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-09-17",
+        "BUYNET": 1589664125,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-09-18",
+        "BUYNET": 1236641712,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-09-21",
+        "BUYNET": -539471266,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-09-22",
+        "BUYNET": 532341528,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-09-23",
+        "BUYNET": 1054877154,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-09-24",
+        "BUYNET": 553677475,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-09-25",
+        "BUYNET": -2057139163,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-09-28",
+        "BUYNET": -2468137188,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-09-29",
+        "BUYNET": -1396583410,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-09-30",
+        "BUYNET": -8154472542,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-10-09",
+        "BUYNET": 3959473753,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-10-12",
+        "BUYNET": 3794460127,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-10-13",
+        "BUYNET": 3055835895,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-10-14",
+        "BUYNET": 2479938004,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-10-15",
+        "BUYNET": -499594895,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-10-16",
+        "BUYNET": -1297406140,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-10-19",
+        "BUYNET": 1594422565,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-10-20",
+        "BUYNET": 443188337,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-10-21",
+        "BUYNET": 363385228,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-10-22",
+        "BUYNET": 651509099,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-10-23",
+        "BUYNET": -4324445933,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-10-26",
+        "BUYNET": -820734888,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-10-27",
+        "BUYNET": 337063504,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-10-28",
+        "BUYNET": 831506206,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-10-29",
+        "BUYNET": 972386820,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-10-30",
+        "BUYNET": -3625885117,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-11-02",
+        "BUYNET": 182235098,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-11-03",
+        "BUYNET": 1500309987,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-11-04",
+        "BUYNET": 1376176741,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-11-05",
+        "BUYNET": 1668454413,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-11-06",
+        "BUYNET": -999111251,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-11-09",
+        "BUYNET": 6239382487,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-11-10",
+        "BUYNET": -198271749,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-11-11",
+        "BUYNET": -1154536847,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-11-12",
+        "BUYNET": -52078995,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-11-13",
+        "BUYNET": 608336093,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-11-16",
+        "BUYNET": 2308579897,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-11-17",
+        "BUYNET": 85554514,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-11-18",
+        "BUYNET": 533928554,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-11-19",
+        "BUYNET": -800758157,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-11-20",
+        "BUYNET": -58528479,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-11-23",
+        "BUYNET": 4873567362,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-11-24",
+        "BUYNET": 2409765852,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-11-25",
+        "BUYNET": 1096189728,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-11-26",
+        "BUYNET": -1197981874,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-11-27",
+        "BUYNET": -1483690296,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-11-30",
+        "BUYNET": 3571794499,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-12-01",
+        "BUYNET": 2595992319,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-12-02",
+        "BUYNET": 3171030790,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-12-03",
+        "BUYNET": 988627793,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-12-04",
+        "BUYNET": 273538170,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-12-07",
+        "BUYNET": 2592694090,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-12-08",
+        "BUYNET": 1127052217,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-12-09",
+        "BUYNET": -3457207399,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-12-10",
+        "BUYNET": 1129867274,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-12-11",
+        "BUYNET": -2035182804,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-12-14",
+        "BUYNET": 2095171709,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-12-15",
+        "BUYNET": 677288505,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-12-16",
+        "BUYNET": 882034584,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-12-17",
+        "BUYNET": 1318538617,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-12-18",
+        "BUYNET": 602421354,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-12-21",
+        "BUYNET": 4493088021,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-12-22",
+        "BUYNET": 656233734,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-12-23",
+        "BUYNET": 1970491146,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-12-24",
+        "BUYNET": -498842943,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-12-25",
+        "BUYNET": 1511720430,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-12-28",
+        "BUYNET": 1924071536,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-12-29",
+        "BUYNET": -2662889792,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2020-12-30",
+        "BUYNET": 2166076943,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-01-04",
+        "BUYNET": 12123258267,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-01-05",
+        "BUYNET": 5720513704,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-01-06",
+        "BUYNET": 3217584893,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-01-07",
+        "BUYNET": 2930615241,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-01-08",
+        "BUYNET": 280253462,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-01-11",
+        "BUYNET": 576594552,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-01-12",
+        "BUYNET": 6011829799,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-01-13",
+        "BUYNET": 3054451261,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-01-14",
+        "BUYNET": 266320785,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-01-15",
+        "BUYNET": -1131930727,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-01-18",
+        "BUYNET": 3458915192,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-01-19",
+        "BUYNET": 2778526719,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-01-20",
+        "BUYNET": 3398206941,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-01-21",
+        "BUYNET": 4740281562,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-01-22",
+        "BUYNET": -521814776,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-01-25",
+        "BUYNET": 3993296466,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-01-26",
+        "BUYNET": -3307262601,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-01-27",
+        "BUYNET": 153124909,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-01-28",
+        "BUYNET": -1669655694,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-01-29",
+        "BUYNET": -6037274600,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-02-01",
+        "BUYNET": -618232495,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-02-02",
+        "BUYNET": -292271337,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-02-03",
+        "BUYNET": -228180034,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-02-04",
+        "BUYNET": -4287151221,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-02-05",
+        "BUYNET": -4364879942,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-02-08",
+        "BUYNET": -2182575822,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-02-09",
+        "BUYNET": 828504590,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-02-10",
+        "BUYNET": -9455100535,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-02-18",
+        "BUYNET": 11157369204,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-02-19",
+        "BUYNET": 3763303568,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-02-22",
+        "BUYNET": 7922849250,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-02-23",
+        "BUYNET": -1951369405,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-02-24",
+        "BUYNET": 611081322,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-02-25",
+        "BUYNET": 75204897,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-02-26",
+        "BUYNET": -2822721389,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-03-01",
+        "BUYNET": 3811065571,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-03-02",
+        "BUYNET": 1755869948,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-03-03",
+        "BUYNET": 226882907,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-03-04",
+        "BUYNET": -3036300300,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-03-05",
+        "BUYNET": -2842907886,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-03-08",
+        "BUYNET": 396110528,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-03-09",
+        "BUYNET": -4341382141,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-03-10",
+        "BUYNET": -3129476186,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-03-11",
+        "BUYNET": 1174811081,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-03-12",
+        "BUYNET": -2053661495,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-03-15",
+        "BUYNET": 2260809975,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-03-16",
+        "BUYNET": -1780539969,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-03-17",
+        "BUYNET": 806898589,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-03-18",
+        "BUYNET": -1620195040,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-03-19",
+        "BUYNET": -825586093,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-03-22",
+        "BUYNET": 1967623236,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-03-23",
+        "BUYNET": -1251138937,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-03-24",
+        "BUYNET": -663358729,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-03-25",
+        "BUYNET": -2291653589,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-03-26",
+        "BUYNET": -748237417,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-03-29",
+        "BUYNET": 888735900,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-03-30",
+        "BUYNET": 757801768,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-03-31",
+        "BUYNET": 1291656152,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-04-01",
+        "BUYNET": -1104635318,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-04-02",
+        "BUYNET": -1798366543,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-04-06",
+        "BUYNET": 2803634437,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-04-07",
+        "BUYNET": 3042152428,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-04-08",
+        "BUYNET": 344109101,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-04-09",
+        "BUYNET": -491163695,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-04-12",
+        "BUYNET": -685735169,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-04-13",
+        "BUYNET": -3152670570,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-04-14",
+        "BUYNET": 760009035,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-04-15",
+        "BUYNET": 48425414,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-04-16",
+        "BUYNET": -757114183,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-04-19",
+        "BUYNET": 2103513137,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-04-20",
+        "BUYNET": 1215228002,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-04-21",
+        "BUYNET": 826663114,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-04-22",
+        "BUYNET": 1153143469,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-04-23",
+        "BUYNET": -2447669818,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-04-26",
+        "BUYNET": 1691772055,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-04-27",
+        "BUYNET": -822058346,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-04-28",
+        "BUYNET": 1263581909,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-04-29",
+        "BUYNET": -1455123892,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-04-30",
+        "BUYNET": -6241548799,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-05-06",
+        "BUYNET": 4364641573,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-05-07",
+        "BUYNET": 260735485,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-05-10",
+        "BUYNET": 3548814150,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-05-11",
+        "BUYNET": 929163539,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-05-12",
+        "BUYNET": 1807511336,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-05-13",
+        "BUYNET": 951695182,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-05-14",
+        "BUYNET": -428017993,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-05-17",
+        "BUYNET": 2264820086,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-05-18",
+        "BUYNET": 1521423656,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-05-19",
+        "BUYNET": 1894722337,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-05-20",
+        "BUYNET": 980332352,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-05-21",
+        "BUYNET": -792059597,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-05-24",
+        "BUYNET": 3004308364,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-05-25",
+        "BUYNET": 586457816,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-05-26",
+        "BUYNET": 2229839696,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-05-27",
+        "BUYNET": 4238452475,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-05-28",
+        "BUYNET": 1242718275,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-05-31",
+        "BUYNET": 5981572581,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-06-01",
+        "BUYNET": 4516167121,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-06-02",
+        "BUYNET": 1412886668,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-06-03",
+        "BUYNET": 891402083,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-06-04",
+        "BUYNET": -1472884866,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-06-07",
+        "BUYNET": 4374893069,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-06-08",
+        "BUYNET": 455581308,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-06-09",
+        "BUYNET": 474401552,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-06-10",
+        "BUYNET": 1563935051,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-06-11",
+        "BUYNET": -2744765936,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-06-15",
+        "BUYNET": 3647778014,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-06-16",
+        "BUYNET": -1157573683,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-06-17",
+        "BUYNET": 2881771763,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-06-18",
+        "BUYNET": 2279579341,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-06-21",
+        "BUYNET": 3071606416,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-06-22",
+        "BUYNET": 3141755033,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-06-23",
+        "BUYNET": 540337128,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-06-24",
+        "BUYNET": 968360500,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-06-25",
+        "BUYNET": -174811314,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-06-28",
+        "BUYNET": 5496356868,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-06-29",
+        "BUYNET": 2605608427,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-06-30",
+        "BUYNET": 2099589942,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-07-01",
+        "BUYNET": -5646289483,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-07-02",
+        "BUYNET": -793404268,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-07-05",
+        "BUYNET": 3345112610,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-07-06",
+        "BUYNET": -84985328,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-07-07",
+        "BUYNET": 4109940098,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-07-08",
+        "BUYNET": 2969157921,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-07-09",
+        "BUYNET": 89566089,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-07-12",
+        "BUYNET": 5241386541,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-07-13",
+        "BUYNET": 2074957585,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-07-14",
+        "BUYNET": -1228987638,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-07-15",
+        "BUYNET": -554350262,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-07-16",
+        "BUYNET": -1097713215,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-07-19",
+        "BUYNET": 957433719,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-07-20",
+        "BUYNET": 369582626,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-07-21",
+        "BUYNET": 3914611328,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-07-22",
+        "BUYNET": 4881464925,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-07-23",
+        "BUYNET": 251411308,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-07-26",
+        "BUYNET": 2675760201,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-07-27",
+        "BUYNET": -2098113545,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-07-28",
+        "BUYNET": -6956574213,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-07-29",
+        "BUYNET": 2918250343,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-07-30",
+        "BUYNET": -2243370996,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-08-02",
+        "BUYNET": 4874394822,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-08-03",
+        "BUYNET": -1225508488,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-08-04",
+        "BUYNET": 2762745436,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-08-05",
+        "BUYNET": 831410828,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-08-06",
+        "BUYNET": 1368137528,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-08-09",
+        "BUYNET": 2904566870,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-08-10",
+        "BUYNET": 81435580,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-08-11",
+        "BUYNET": 2272611505,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-08-12",
+        "BUYNET": 3910114642,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-08-13",
+        "BUYNET": -2146394625,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-08-16",
+        "BUYNET": -368229133,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-08-17",
+        "BUYNET": -4891727560,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-08-18",
+        "BUYNET": 1576438071,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-08-19",
+        "BUYNET": -2816527795,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-08-20",
+        "BUYNET": -2393623549,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-08-23",
+        "BUYNET": 8107941982,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-08-24",
+        "BUYNET": 3011870751,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-08-25",
+        "BUYNET": 1904532074,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-08-26",
+        "BUYNET": 3072714844,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-08-27",
+        "BUYNET": -3494050962,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-08-30",
+        "BUYNET": 4176819723,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-08-31",
+        "BUYNET": 296315495,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-09-01",
+        "BUYNET": 1958995070,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-09-02",
+        "BUYNET": 1311855873,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-09-03",
+        "BUYNET": -1980564312,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-09-06",
+        "BUYNET": 5423141689,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-09-07",
+        "BUYNET": 3990983297,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-09-08",
+        "BUYNET": 6256493865,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-09-09",
+        "BUYNET": 6438540058,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-09-10",
+        "BUYNET": 797685652,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-09-13",
+        "BUYNET": 7181016091,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-09-14",
+        "BUYNET": 1123369666,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-09-15",
+        "BUYNET": 1915246404,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-09-16",
+        "BUYNET": -5505535930,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-09-17",
+        "BUYNET": -10221104760,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-09-22",
+        "BUYNET": 4306338619,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-09-23",
+        "BUYNET": 4186014125,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-09-24",
+        "BUYNET": -5442884855,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-09-27",
+        "BUYNET": -6914144755,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-09-28",
+        "BUYNET": -1367170986,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-09-29",
+        "BUYNET": -6001535503,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-09-30",
+        "BUYNET": -10741337191,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-10-08",
+        "BUYNET": 5131396378,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-10-11",
+        "BUYNET": 1236713864,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-10-12",
+        "BUYNET": -1881708693,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-10-13",
+        "BUYNET": -1883707041,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-10-14",
+        "BUYNET": -131902649,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-10-15",
+        "BUYNET": -2924153764,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-10-18",
+        "BUYNET": 5286157664,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-10-19",
+        "BUYNET": 1616258893,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-10-20",
+        "BUYNET": 3066099551,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-10-21",
+        "BUYNET": 372703516,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-10-22",
+        "BUYNET": -3003050296,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-10-25",
+        "BUYNET": 2758825230,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-10-26",
+        "BUYNET": 2690279979,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-10-27",
+        "BUYNET": 2062008953,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-10-28",
+        "BUYNET": -3850584060,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-10-29",
+        "BUYNET": -2949264819,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-11-01",
+        "BUYNET": 1044558600,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-11-02",
+        "BUYNET": -2691868500,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-11-03",
+        "BUYNET": -2128946623,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-11-04",
+        "BUYNET": 2352592364,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-11-05",
+        "BUYNET": -6644124720,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-11-08",
+        "BUYNET": 1080165450,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-11-09",
+        "BUYNET": 1866631054,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-11-10",
+        "BUYNET": 624024852,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-11-11",
+        "BUYNET": 320103472,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-11-12",
+        "BUYNET": -2665755910,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-11-15",
+        "BUYNET": 15375746,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-11-16",
+        "BUYNET": -1797772778,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-11-17",
+        "BUYNET": 1506415515,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-11-18",
+        "BUYNET": 1100581096,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-11-19",
+        "BUYNET": -853427291,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-11-22",
+        "BUYNET": 5414592528,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-11-23",
+        "BUYNET": 1670394146,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-11-24",
+        "BUYNET": 457134597,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-11-25",
+        "BUYNET": 1105223925,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-11-26",
+        "BUYNET": -1242436730,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-11-29",
+        "BUYNET": 2436952086,
+        "CLOSE": 0
+    },
+    {
+        "TRADEDATE": "2021-11-30",
+        "BUYNET": 1610258387,
+        "CLOSE": 0
+    }
+]
